@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard designed to analyze B2B sales dynamics, pipeline performance, sales rep productivity, and product-level revenue distribution.
 
-![B2B Sales Dashboard](https://github.com/AmanyMohamed22/B2B-Sales-Dashboard-PowerBI/blob/main/B2B.png)
+!([B2B Sales Dashboard]https://github.com/AmanyMohamed22/B2B-Sales-Dashboard-PowerBI/blob/main/B2B.png)
 
 ---
 
